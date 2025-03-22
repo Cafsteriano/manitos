@@ -20,3 +20,8 @@
 [00:55:15] [Server thread/INFO]: Cafssterr[/100.120.74.125:58016] logged in with entity id 55 at (-12.819114657711651, 110.0, -12.655305789439929)
 [00:55:15] [Server thread/INFO]: Cafssterr joined the game
 [00:58:01] [Server thread/INFO]: Cafssterr was slain by Enderman
+[01:07:55] [Server thread/INFO]: hasty_exe[/100.87.152.74:61499] logged in with entity id 2539 at (-12.675203114543322, 103.0, 13.689652177058488)
+[01:07:55] [Server thread/INFO]: hasty_exe joined the game
+[01:08:25] [Server thread/INFO]: hasty_exe lost connection: Timed out
+[01:08:25] [Server thread/INFO]: hasty_exe left the game
+[01:08:25] [Server thread/WARN]: handleDisconnection() called twice
